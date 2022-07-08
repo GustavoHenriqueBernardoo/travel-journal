@@ -1,6 +1,10 @@
 # travel-journal
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/94610311/178007496-94d720e2-26d5-4bde-b852-fa7e2d880954.gif)
 
-![](https://github.com/travel-journal/GIF/ezgif.com-gif-maker.gif)
+
+
+<!-- ![](https://github.co![ezgif com-gif-maker](https://user-images.githubusercontent.com/94610311/178007457-5a25809f-726f-47ea-9780-e2bca6d0a31b.gif)
+m/travel-journal/GIF/ezgif.com-gif-maker.gif) -->
 
 <!-- # Getting Started with Create React App
 
