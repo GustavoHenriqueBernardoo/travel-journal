@@ -1,6 +1,6 @@
 # travel-journal
 
-![](https://github.com/GIF/ezgif.com-gif-maker.gif)
+![](https://github.com/travel-journal/GIF/ezgif.com-gif-maker.gif)
 
 <!-- # Getting Started with Create React App
 
