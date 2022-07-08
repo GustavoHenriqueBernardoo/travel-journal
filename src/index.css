@@ -48,7 +48,7 @@ body {
 
 .card--image {
   flex: 1 auto;
-  max-width: 180px;
+  max-width: 250px;
   min-height: 250px;
   border-radius: 5px;
 
@@ -64,7 +64,8 @@ body {
 
   /* border: solid black 1px; */
 
-  max-height: 200px;
+  max-height: 400px;
+  overflow: hidden;
 }
 
 .card--location {
@@ -105,7 +106,7 @@ body {
   line-height: 12px;
 
   color: #2b283a;
-  margin-left: 3px;
+  margin-left: 5px;
   margin: 0 0 5px 0;
 }
 
@@ -114,6 +115,7 @@ body {
   font-weight: 400;
   font-size: 12px;
   line-height: 150%;
+  margin-left: 5px;
 
   color: #2b283a;
 }
